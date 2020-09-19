@@ -1,4 +1,5 @@
-git is a learning tool
+git is a liearning tool
 love it!
 sorry for not liking you
-sorry again
+creating a new branch is quich and simple
+
